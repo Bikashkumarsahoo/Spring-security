@@ -1,0 +1,5 @@
+package com.example.springsecurituy.entity;
+
+public class User {
+	
+}

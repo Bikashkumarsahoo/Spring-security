@@ -1,0 +1,5 @@
+package com.example.springsecurituy.securityconfig;
+
+public class MyUserDetails {
+
+}
