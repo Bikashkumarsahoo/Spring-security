@@ -1,5 +1,0 @@
-package com.example.springsecurituy.repo;
-
-public interface UserRepository extendes{
-
-}

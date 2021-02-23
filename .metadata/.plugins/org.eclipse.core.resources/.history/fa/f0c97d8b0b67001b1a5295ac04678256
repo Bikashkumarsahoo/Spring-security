@@ -1,5 +1,0 @@
-package com.example.springLDAP.security;
-
-public class SecurityConfig {
-
-}
