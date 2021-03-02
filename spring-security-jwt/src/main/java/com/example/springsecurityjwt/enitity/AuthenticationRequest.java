@@ -17,7 +17,6 @@ public class AuthenticationRequest {
 		this.password = password;
 	}
 	public AuthenticationRequest() {
-		super();
 	}
 	public AuthenticationRequest(String username, String password) {
 		super();
